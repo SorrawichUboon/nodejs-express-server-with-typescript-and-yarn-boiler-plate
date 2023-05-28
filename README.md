@@ -9,13 +9,13 @@
 
 ```
 {
-"compilerOptions": {
-"target": "es6",
-"module": "commonjs",
-"outDir": "dist",
-"strict": true,
-"esModuleInterop": true
-    }
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "dist",
+    "strict": true,
+    "esModuleInterop": true
+  }
 }
 ```
 
@@ -40,8 +40,8 @@ console.log(`Server is running on port ${port}`);
 
 ```
 "scripts": {
-"start": "ts-node server.ts"
-}
+    "start": "ts-node server.ts"
+  },
 ```
 
 7. Start the server by running the following command
