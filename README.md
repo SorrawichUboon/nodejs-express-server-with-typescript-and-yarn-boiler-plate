@@ -1,4 +1,4 @@
-# How to set up nodejs express server with typescript and yarn boiler plat
+# How to set up nodejs express server with typescript and yarn boiler plate
 
 1. Create a new directory for your project and navigate to it in your terminal.
 2. Run the following command to initialize a new Node.js project using Yarn
